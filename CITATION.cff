@@ -1,1 +1,45 @@
+cff-version: 1.2.0
 
+title: "SAFE-MFI: Operational AI Safety Framework for Trustworthy Machine Learning"
+
+message: >
+  If you use this repository in your research,
+  please cite the accompanying paper.
+
+type: software
+
+authors:
+  - family-names: Ebong
+    given-names: Aniebiet Friday
+
+repository-code: https://github.com/YOUR_USERNAME/SAFE-MFI
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-07-10
+
+keywords:
+  - Artificial Intelligence
+  - AI Safety
+  - Explainable AI
+  - Machine Learning
+  - Credit Risk
+  - Fairness
+  - Governance
+  - SHAP
+  - Trustworthy AI
+
+preferred-citation:
+  type: article
+
+  authors:
+    - family-names: Ebong
+      given-names: Aniebiet Friday
+
+  title: >
+    Operationalizing AI Safety in High-Stakes Machine Learning:
+    The SAFE-MFI Framework for Trustworthy Credit Risk Assessment
+
+  year: 2026
